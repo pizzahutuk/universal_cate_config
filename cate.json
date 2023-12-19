@@ -1,0 +1,42 @@
+[
+  {
+    "id": "deals",
+    "type": "deal",
+    "name": "Deals",
+    "imageUrl": "https://static.phdvasia.com/development/menu/display_category/icon_99cb2f5e-fb85-4657-9d22-8917d5213ff8.jpg",
+    "sequence": 1,
+    "spanCount": 1
+  },
+  {
+    "id": "pizzas",
+    "type": "pizza",
+    "name": "Pizzas",
+    "imageUrl": "https://static.phdvasia.com/resource/a07168a0-cd4f-40c4-8a82-72d9cec1aaba-pizza-panner-tandoori.jpg",
+    "sequence": 2,
+    "spanCount": 2
+  },
+  {
+    "id": "sides",
+    "type": "side",
+    "name": "Sides",
+    "imageUrl": "https://static.phdvasia.com/resource/a2e59b51-6849-485b-8a94-33f246e016b2-desserts-tomato.jpg",
+    "sequence": 3,
+    "spanCount": 2
+  },
+  {
+    "id": "desserts",
+    "type": "dessert",
+    "name": "Desserts",
+    "imageUrl": "https://static.phdvasia.com/resource/50b60e9c-37de-437b-b6b8-f63fbdd19111-dessert-choco.jpg",
+    "sequence": 4,
+    "spanCount": 2
+  },
+  {
+    "id": "drinks",
+    "type": "drink",
+    "name": "Drinks",
+    "imageUrl": "https://static.phdvasia.com/resource/8fff00b4-b722-4b8f-9e10-687323ad3c4d-drinks-pepsi.jpg",
+    "sequence": 5,
+    "spanCount": 2
+  }
+]
